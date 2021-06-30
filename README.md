@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kyle-m-nguyen
+- 👀 I’m interested in learning web development
+- 🌱 I’m currently learning Java, Javascript, Node.Js, React
